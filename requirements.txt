@@ -1,0 +1,7 @@
+pvporcupine==2.2.1
+PyAudio==0.2.13
+SpeechRecognition==3.10.0
+openai==0.27.10
+pyttsx3==2.90
+pyperclip==1.8.2
+playsound==1.2.2
